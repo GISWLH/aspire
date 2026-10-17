@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![aspire — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # Aspire
 
 [![CI](https://github.com/microsoft/aspire/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/microsoft/aspire/actions/workflows/ci.yml)
@@ -111,3 +115,18 @@ You should evaluate whichever containers you chose to compose and automate with 
 ## License
 
 The code in this repo is licensed under the [MIT](LICENSE.TXT) license.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:selected-result -->
+
+## 已有界面与示例
+
+![Aspire JavaScript 示例的 Resources 仪表板，列出 Angular、React、Vue 与 Weather API 服务。](assets/readme/result.png)
+
+Aspire JavaScript 示例的 Resources 仪表板，列出 Angular、React、Vue 与 Weather API 服务。 该图为仓库已有上游示例，保留原有来源；本次仅整理展示，未重新运行。 [查看来源](https://github.com/GISWLH/aspire/blob/main/playground/AspireWithJavaScript/images/aspire-dashboard.png)。
+
+<!-- /readme-visual-refresh:selected-result -->
